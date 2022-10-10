@@ -15,3 +15,20 @@ C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.Data\obj\Debug\net6.0\POCProj
 C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.Data\obj\Debug\net6.0\ref\POCProjectAPI.Infra.Data.dll
 C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.Data\bin\Debug\net6.0\POCProjectAPI.Infra.Data.runtimeconfig.json
 C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.Data\obj\Debug\net6.0\POCProjectAPI.Infra.Data.genruntimeconfig.cache
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.Data\bin\Debug\net6.0\POCProjectAPI.Infra.Data.deps.json
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.Data\bin\Debug\net6.0\POCProjectAPI.Infra.Data.runtimeconfig.json
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.Data\bin\Debug\net6.0\POCProjectAPI.Infra.Data.dll
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.Data\bin\Debug\net6.0\POCProjectAPI.Infra.Data.pdb
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.Data\bin\Debug\net6.0\POCProjectAPI.Domain.dll
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.Data\bin\Debug\net6.0\POCProjectAPI.Domain.pdb
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.Data\obj\Debug\net6.0\POCProjectAPI.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.Data\obj\Debug\net6.0\POCProjectAPI.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.Data\obj\Debug\net6.0\POCProjectAPI.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.Data\obj\Debug\net6.0\POCProjectAPI.Infra.Data.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.Data\obj\Debug\net6.0\POCProjectAPI.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.Data\obj\Debug\net6.0\POCProjectAPI.Infra.Data.csproj.CopyComplete
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.Data\obj\Debug\net6.0\POCProjectAPI.Infra.Data.dll
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.Data\obj\Debug\net6.0\refint\POCProjectAPI.Infra.Data.dll
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.Data\obj\Debug\net6.0\POCProjectAPI.Infra.Data.pdb
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.Data\obj\Debug\net6.0\POCProjectAPI.Infra.Data.genruntimeconfig.cache
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.Data\obj\Debug\net6.0\ref\POCProjectAPI.Infra.Data.dll

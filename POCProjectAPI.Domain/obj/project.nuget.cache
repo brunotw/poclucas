@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N2i8u74cAM8xAUznf+HrKIsiBOs7EAhTnIS6ytNUi3pkza50m/h2+QhYjcIfOyQl41PpB8KzGZazProoRlm+Yg==",
+  "dgSpecHash": "cV1hKX/Uo5pAdVVliAuRXVPib+vA0ME9mfpUBDaW5N43hAgiIeeHOq2hZaxBVmeHA6OQ34x559NQhj9ccDc/Rw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Domain\\POCProjectAPI.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Domain\\POCProjectAPI.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

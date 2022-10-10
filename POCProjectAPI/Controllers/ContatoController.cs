@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Http.Extensions;
+using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 using POCProjectAPI.Services.Interfaces;
 using POCProjectAPI.Services.ViewModels;
 
@@ -9,22 +11,26 @@ namespace POCProjectAPI.Controllers
     public class ContatoController : ControllerBase
     {
         private readonly IContatoService _contatoService;
+        private readonly ILogger<ContatoController> _logger;
 
-        public ContatoController(IContatoService contatoService)
+        public ContatoController(ILogger<ContatoController> logger, IContatoService contatoService)
         {
+            _logger = logger;
             _contatoService = contatoService;
         }
 
-        [HttpGet("{pessoaId:int}")]
-        public async Task<ActionResult<IAsyncEnumerable<ContatoViewModel>>> GetContatos(int pessoaId)
+        [HttpGet("{id:int}")]
+        public async Task<ActionResult<IAsyncEnumerable<ContatoViewModel>>> GetContatos(int id)
         {
             try
             {
-                var contatos = await _contatoService.GetContatos(pessoaId);
+                var contatos = await _contatoService.GetContatos(id);
                 return Ok(contatos);
             }
-            catch (Exception)
+            catch (Exception ex)
             {
+                _logger.LogInformation($"Request Uri: {UriHelper.GetDisplayUrl(Request)}");
+                _logger.LogError(ex.Message);
                 return StatusCode(StatusCodes.Status500InternalServerError, "Houve um problema com a solicitação");
             }
         }
@@ -41,8 +47,11 @@ namespace POCProjectAPI.Controllers
 
                 return Ok();
             }
-            catch (Exception)
+            catch (Exception ex)
             {
+                _logger.LogInformation($"Request Uri: {UriHelper.GetDisplayUrl(Request)}");
+                _logger.LogInformation($"Payload: {JsonConvert.SerializeObject(contato)}");
+                _logger.LogError(ex.Message);
                 return BadRequest("Solicitação inválida");
             }
         }
@@ -59,8 +68,12 @@ namespace POCProjectAPI.Controllers
 
                 return Ok($"Contato com id: {id} foi atualizado com sucesso");
             }
-            catch (Exception)
+            catch (Exception ex)
             {
+                _logger.LogInformation($"Request Uri: {UriHelper.GetDisplayUrl(Request)}");
+                _logger.LogInformation($"Payload: {JsonConvert.SerializeObject(contato)}");
+                _logger.LogError(ex.Message);
+
                 return BadRequest("Solicitação inválida");
             }
         }
@@ -79,8 +92,10 @@ namespace POCProjectAPI.Controllers
 
                 return Ok($"Contato com id: {id} foi excluído com sucesso");
             }
-            catch (Exception)
+            catch (Exception ex)
             {
+                _logger.LogInformation($"Request Uri: {UriHelper.GetDisplayUrl(Request)}");
+                _logger.LogError(ex.Message);
                 return BadRequest("Solicitação inválida");
             }
         }

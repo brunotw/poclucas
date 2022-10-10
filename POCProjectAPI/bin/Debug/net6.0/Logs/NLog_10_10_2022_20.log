@@ -1,0 +1,5 @@
+2022-10-10 20:52:31.0864|DEBUG|Program|init main
+2022-10-10 20:53:25.5318|INFO|POCProjectAPI.Controllers.ContatoController|Request Uri: https://localhost:7029/Contato/123
+2022-10-10 20:53:25.5318|ERROR|POCProjectAPI.Controllers.ContatoController|Error
+2022-10-10 20:53:58.1946|INFO|POCProjectAPI.Controllers.ContatoController|Request Uri: https://localhost:7029/Contato/123
+2022-10-10 20:53:58.1946|ERROR|POCProjectAPI.Controllers.ContatoController|Error

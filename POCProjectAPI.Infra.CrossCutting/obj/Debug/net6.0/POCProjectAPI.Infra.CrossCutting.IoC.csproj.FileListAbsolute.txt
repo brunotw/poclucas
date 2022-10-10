@@ -17,3 +17,22 @@ C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.CrossCutting\obj\Debug\net6.0
 C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.CrossCutting\obj\Debug\net6.0\refint\POCProjectAPI.Infra.CrossCutting.IoC.dll
 C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.CrossCutting\obj\Debug\net6.0\POCProjectAPI.Infra.CrossCutting.IoC.pdb
 C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.CrossCutting\obj\Debug\net6.0\ref\POCProjectAPI.Infra.CrossCutting.IoC.dll
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.CrossCutting\bin\Debug\net6.0\POCProjectAPI.Infra.CrossCutting.IoC.deps.json
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.CrossCutting\bin\Debug\net6.0\POCProjectAPI.Infra.CrossCutting.IoC.dll
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.CrossCutting\bin\Debug\net6.0\POCProjectAPI.Infra.CrossCutting.IoC.pdb
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.CrossCutting\bin\Debug\net6.0\POCProjectAPI.Domain.dll
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.CrossCutting\bin\Debug\net6.0\POCProjectAPI.Infra.Data.dll
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.CrossCutting\bin\Debug\net6.0\POCProjectAPI.Services.dll
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.CrossCutting\bin\Debug\net6.0\POCProjectAPI.Infra.Data.pdb
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.CrossCutting\bin\Debug\net6.0\POCProjectAPI.Services.pdb
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.CrossCutting\bin\Debug\net6.0\POCProjectAPI.Domain.pdb
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.CrossCutting\obj\Debug\net6.0\POCProjectAPI.Infra.CrossCutting.IoC.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.CrossCutting\obj\Debug\net6.0\POCProjectAPI.Infra.CrossCutting.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.CrossCutting\obj\Debug\net6.0\POCProjectAPI.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.CrossCutting\obj\Debug\net6.0\POCProjectAPI.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.CrossCutting\obj\Debug\net6.0\POCProjectAPI.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.CrossCutting\obj\Debug\net6.0\POCProjectAPI.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.CrossCutting\obj\Debug\net6.0\POCProjectAPI.Infra.CrossCutting.IoC.dll
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.CrossCutting\obj\Debug\net6.0\refint\POCProjectAPI.Infra.CrossCutting.IoC.dll
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.CrossCutting\obj\Debug\net6.0\POCProjectAPI.Infra.CrossCutting.IoC.pdb
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Infra.CrossCutting\obj\Debug\net6.0\ref\POCProjectAPI.Infra.CrossCutting.IoC.dll

@@ -12,12 +12,10 @@ namespace POCProjectAPI.Infra.CrossCutting.IoC
         public static void RegisterServices(this IServiceCollection services)
         {
             // Services
-
             services.AddScoped<IPessoaService, PessoaService>();
             services.AddScoped<IContatoService, ContatoService>();
 
             // Infra - Data
-
             services.AddScoped<AppDBContext>();
             services.AddScoped<IPessoaRepository, PessoaRepository>();
             services.AddScoped<IContatoRepository, ContatoRepository>();

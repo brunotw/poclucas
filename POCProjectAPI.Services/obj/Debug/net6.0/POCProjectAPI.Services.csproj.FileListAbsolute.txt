@@ -13,3 +13,18 @@ C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Services\obj\Debug\net6.0\POCProjec
 C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Services\obj\Debug\net6.0\refint\POCProjectAPI.Services.dll
 C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Services\obj\Debug\net6.0\POCProjectAPI.Services.pdb
 C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Services\obj\Debug\net6.0\ref\POCProjectAPI.Services.dll
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Services\bin\Debug\net6.0\POCProjectAPI.Services.deps.json
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Services\bin\Debug\net6.0\POCProjectAPI.Services.dll
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Services\bin\Debug\net6.0\POCProjectAPI.Services.pdb
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Services\bin\Debug\net6.0\POCProjectAPI.Domain.dll
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Services\bin\Debug\net6.0\POCProjectAPI.Domain.pdb
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Services\obj\Debug\net6.0\POCProjectAPI.Services.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Services\obj\Debug\net6.0\POCProjectAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Services\obj\Debug\net6.0\POCProjectAPI.Services.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Services\obj\Debug\net6.0\POCProjectAPI.Services.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Services\obj\Debug\net6.0\POCProjectAPI.Services.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Services\obj\Debug\net6.0\POCProjectAPI.Services.csproj.CopyComplete
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Services\obj\Debug\net6.0\POCProjectAPI.Services.dll
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Services\obj\Debug\net6.0\refint\POCProjectAPI.Services.dll
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Services\obj\Debug\net6.0\POCProjectAPI.Services.pdb
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI.Services\obj\Debug\net6.0\ref\POCProjectAPI.Services.dll

@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI\\POCProjectAPI.csproj": {}
+    "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI\\POCProjectAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Domain\\POCProjectAPI.Domain.csproj": {
+    "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Domain\\POCProjectAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Domain\\POCProjectAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Domain\\POCProjectAPI.Domain.csproj",
         "projectName": "POCProjectAPI.Domain",
-        "projectPath": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Domain\\POCProjectAPI.Domain.csproj",
-        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Domain\\POCProjectAPI.Domain.csproj",
+        "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,21 +57,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Infra.CrossCutting\\POCProjectAPI.Infra.CrossCutting.IoC.csproj": {
+    "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Infra.CrossCutting\\POCProjectAPI.Infra.CrossCutting.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Infra.CrossCutting\\POCProjectAPI.Infra.CrossCutting.IoC.csproj",
+        "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Infra.CrossCutting\\POCProjectAPI.Infra.CrossCutting.IoC.csproj",
         "projectName": "POCProjectAPI.Infra.CrossCutting.IoC",
-        "projectPath": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Infra.CrossCutting\\POCProjectAPI.Infra.CrossCutting.IoC.csproj",
-        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Infra.CrossCutting\\obj\\",
+        "projectPath": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Infra.CrossCutting\\POCProjectAPI.Infra.CrossCutting.IoC.csproj",
+        "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Infra.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,11 +88,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Infra.Data\\POCProjectAPI.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Infra.Data\\POCProjectAPI.Infra.Data.csproj"
+              "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Infra.Data\\POCProjectAPI.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Infra.Data\\POCProjectAPI.Infra.Data.csproj"
               },
-              "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Services\\POCProjectAPI.Services.csproj": {
-                "projectPath": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Services\\POCProjectAPI.Services.csproj"
+              "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Services\\POCProjectAPI.Services.csproj": {
+                "projectPath": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Services\\POCProjectAPI.Services.csproj"
               }
             }
           }
@@ -121,21 +127,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Infra.Data\\POCProjectAPI.Infra.Data.csproj": {
+    "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Infra.Data\\POCProjectAPI.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Infra.Data\\POCProjectAPI.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Infra.Data\\POCProjectAPI.Infra.Data.csproj",
         "projectName": "POCProjectAPI.Infra.Data",
-        "projectPath": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Infra.Data\\POCProjectAPI.Infra.Data.csproj",
-        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Infra.Data\\obj\\",
+        "projectPath": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Infra.Data\\POCProjectAPI.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -149,8 +158,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Domain\\POCProjectAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Domain\\POCProjectAPI.Domain.csproj"
+              "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Domain\\POCProjectAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Domain\\POCProjectAPI.Domain.csproj"
               }
             }
           }
@@ -203,21 +212,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Services\\POCProjectAPI.Services.csproj": {
+    "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Services\\POCProjectAPI.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Services\\POCProjectAPI.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Services\\POCProjectAPI.Services.csproj",
         "projectName": "POCProjectAPI.Services",
-        "projectPath": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Services\\POCProjectAPI.Services.csproj",
-        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Services\\obj\\",
+        "projectPath": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Services\\POCProjectAPI.Services.csproj",
+        "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Services\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -231,8 +243,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Domain\\POCProjectAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Domain\\POCProjectAPI.Domain.csproj"
+              "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Domain\\POCProjectAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Domain\\POCProjectAPI.Domain.csproj"
               }
             }
           }
@@ -267,21 +279,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI\\POCProjectAPI.csproj": {
+    "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI\\POCProjectAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI\\POCProjectAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI\\POCProjectAPI.csproj",
         "projectName": "POCProjectAPI",
-        "projectPath": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI\\POCProjectAPI.csproj",
-        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI\\obj\\",
+        "projectPath": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI\\POCProjectAPI.csproj",
+        "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -295,14 +310,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Infra.CrossCutting\\POCProjectAPI.Infra.CrossCutting.IoC.csproj": {
-                "projectPath": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Infra.CrossCutting\\POCProjectAPI.Infra.CrossCutting.IoC.csproj"
+              "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Infra.CrossCutting\\POCProjectAPI.Infra.CrossCutting.IoC.csproj": {
+                "projectPath": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Infra.CrossCutting\\POCProjectAPI.Infra.CrossCutting.IoC.csproj"
               },
-              "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Infra.Data\\POCProjectAPI.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Infra.Data\\POCProjectAPI.Infra.Data.csproj"
+              "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Infra.Data\\POCProjectAPI.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Infra.Data\\POCProjectAPI.Infra.Data.csproj"
               },
-              "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Services\\POCProjectAPI.Services.csproj": {
-                "projectPath": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Services\\POCProjectAPI.Services.csproj"
+              "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Services\\POCProjectAPI.Services.csproj": {
+                "projectPath": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Services\\POCProjectAPI.Services.csproj"
               }
             }
           }
@@ -327,6 +342,18 @@
               "target": "Package",
               "version": "[6.0.9, )"
             },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.1.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -350,7 +377,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

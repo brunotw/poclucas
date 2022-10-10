@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Ea6gDUnq1DtId0WJ2W5HqmQ+3hjMiIPr8TvjX9HxF5I8sbbIwJmXsEWymzatjIwQk/Musymo00I4FjshI8Xv+g==",
+  "dgSpecHash": "BKLD+zbF80SOdl0SuBMlIS4FgSdnbEc3V884ie2EdjZPrEwp9QgPIkRhi1js9fZtiI+mM/vceWu4GeibdetjYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\Desktop\\POCProjectAPI\\POCProjectAPI.Services\\POCProjectAPI.Services.csproj",
+  "projectFilePath": "C:\\Users\\Bruno\\Desktop\\test\\poclucas\\POCProjectAPI.Services\\POCProjectAPI.Services.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\lucas\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
-    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+    "C:\\Users\\Bruno\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
