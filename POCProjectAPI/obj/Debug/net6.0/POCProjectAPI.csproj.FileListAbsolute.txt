@@ -146,3 +146,4 @@ C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI\bin\Debug\net6.0\Nlog.config
 C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI\bin\Debug\net6.0\NLog.dll
 C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI\bin\Debug\net6.0\NLog.Extensions.Logging.dll
 C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\Users\Bruno\Desktop\test\poclucas\POCProjectAPI\bin\Debug\net6.0\Newtonsoft.Json.dll

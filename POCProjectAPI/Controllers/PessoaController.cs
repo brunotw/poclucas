@@ -52,7 +52,7 @@ namespace POCProjectAPI.Controllers
         {
             try
             {
-                if (pessoa is null)
+                if(!ModelState.IsValid)
                     return BadRequest("Dados inválidos");
 
                 await _pessoaService.CreatePessoa(pessoa);
