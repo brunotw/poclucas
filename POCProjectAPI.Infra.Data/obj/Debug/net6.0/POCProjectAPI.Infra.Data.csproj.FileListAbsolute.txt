@@ -1,0 +1,17 @@
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.Data\bin\Debug\net6.0\POCProjectAPI.Infra.Data.deps.json
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.Data\bin\Debug\net6.0\POCProjectAPI.Infra.Data.dll
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.Data\bin\Debug\net6.0\POCProjectAPI.Infra.Data.pdb
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.Data\bin\Debug\net6.0\POCProjectAPI.Domain.dll
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.Data\bin\Debug\net6.0\POCProjectAPI.Domain.pdb
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.Data\obj\Debug\net6.0\POCProjectAPI.Infra.Data.csproj.AssemblyReference.cache
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.Data\obj\Debug\net6.0\POCProjectAPI.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.Data\obj\Debug\net6.0\POCProjectAPI.Infra.Data.AssemblyInfoInputs.cache
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.Data\obj\Debug\net6.0\POCProjectAPI.Infra.Data.AssemblyInfo.cs
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.Data\obj\Debug\net6.0\POCProjectAPI.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.Data\obj\Debug\net6.0\POCProjectAPI.Infra.Data.csproj.CopyComplete
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.Data\obj\Debug\net6.0\POCProjectAPI.Infra.Data.dll
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.Data\obj\Debug\net6.0\refint\POCProjectAPI.Infra.Data.dll
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.Data\obj\Debug\net6.0\POCProjectAPI.Infra.Data.pdb
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.Data\obj\Debug\net6.0\ref\POCProjectAPI.Infra.Data.dll
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.Data\bin\Debug\net6.0\POCProjectAPI.Infra.Data.runtimeconfig.json
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Infra.Data\obj\Debug\net6.0\POCProjectAPI.Infra.Data.genruntimeconfig.cache

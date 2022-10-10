@@ -1,0 +1,15 @@
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Services\bin\Debug\net6.0\POCProjectAPI.Services.deps.json
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Services\bin\Debug\net6.0\POCProjectAPI.Services.dll
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Services\bin\Debug\net6.0\POCProjectAPI.Services.pdb
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Services\bin\Debug\net6.0\POCProjectAPI.Domain.dll
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Services\bin\Debug\net6.0\POCProjectAPI.Domain.pdb
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Services\obj\Debug\net6.0\POCProjectAPI.Services.csproj.AssemblyReference.cache
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Services\obj\Debug\net6.0\POCProjectAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Services\obj\Debug\net6.0\POCProjectAPI.Services.AssemblyInfoInputs.cache
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Services\obj\Debug\net6.0\POCProjectAPI.Services.AssemblyInfo.cs
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Services\obj\Debug\net6.0\POCProjectAPI.Services.csproj.CoreCompileInputs.cache
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Services\obj\Debug\net6.0\POCProjectAPI.Services.csproj.CopyComplete
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Services\obj\Debug\net6.0\POCProjectAPI.Services.dll
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Services\obj\Debug\net6.0\refint\POCProjectAPI.Services.dll
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Services\obj\Debug\net6.0\POCProjectAPI.Services.pdb
+C:\Meus Projetos\POCProjectAPI\POCProjectAPI.Services\obj\Debug\net6.0\ref\POCProjectAPI.Services.dll
